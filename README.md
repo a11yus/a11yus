@@ -14,11 +14,11 @@ I love the entire process of developing creative websites and also An individual
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/ayush-kumar-671a68241/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="ayush's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+</br>If you have any question/feedback, please do not hesitate to reach out to me ! 💬 
 </br>
-If you have any question/feedback, please do not hesitate to reach out to me ! 💬 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
