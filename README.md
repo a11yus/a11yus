@@ -30,7 +30,7 @@ I love the entire process of developing creative websites and also An individual
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/a11yus?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ayush-kumar-671a68241/)
-- 📝 &nbsp; Checkout my [resume]()
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1w9UX_A7D56sofd6ruw458C2VgU7Mgq43/view?usp=sharing)
 
 <br>
 
