@@ -26,7 +26,7 @@ I love the entire process of developing creative websites and also An individual
 ### 🧐 More About Me:
 
 - ☘️ &nbsp; I’m currently learning **full stack web development**
-- 🤝 &nbsp; I’m looking to for work in software industry 
+- 🤝 &nbsp; I’m looking to forward to work in software industry 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/a11yus?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ayush-kumar-671a68241/)
