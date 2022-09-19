@@ -57,3 +57,29 @@ I love the entire process of developing creative websites and also An individual
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+## 📊 My Github Stats
+   <br/>   
+    <p align="center">      
+  <a href="https://github.com/a11yus/github-readme-stats"><img alt="Ankit Mishra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a11yus&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>      
+     <br/>
+   <p align="center">
+    <a href="https://github.com/a11yus/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit Mishra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=a11yus&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>                                                                                                                                              
+
+  <br/>
+     <p align="center">                                                                                                 
+    <a href="https://github.com/a11yus/github-readme-stats"><img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a11yus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </p>                                                                 
+ <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/a11yus/github-readme-activity-graph"><img alt="Ayush Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=a11yus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
