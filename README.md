@@ -57,7 +57,7 @@ I love the entire process of developing creative websites and also An individual
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📊 My Github Stats
+## 📈 My Github Stats
    <br/>   
     <p align="center">      
   <a href="https://github.com/a11yus/github-readme-stats"><img alt="Ankit Mishra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a11yus&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
