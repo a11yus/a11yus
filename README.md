@@ -16,7 +16,10 @@
   <img src="https://profile-counter.glitch.me/a11yus/count.svg" />
 </p>
 
-<img src="stats.gif" width="90%"><br/><br/>
+[![GitHub followers](https://img.shields.io/github/followers/a11yus?label=Follow&style=social)](https://github.com/a11yus/?tab=follow)
+<img src="stats.gif" width="90%">
+<br />
+<br />
 I love the entire process of developing creative websites and also An individual with a keen interest in Software programs, possessing good interpersonal and analytical skills, who wish to utilizing current skillset and experience of working on projects to create marks in the software industry.
 
 
