@@ -11,6 +11,12 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ayush 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻;Traveller 🌏;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/a11yus/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
 I love the entire process of developing creative websites and also An individual with a keen interest in Software programs, possessing good interpersonal and analytical skills, who wish to utilizing current skillset and experience of working on projects to create marks in the software industry.
 
 
