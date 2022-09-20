@@ -84,10 +84,3 @@ I love the entire process of developing creative websites and also An individual
 <a href="https://github.com/a11yus/github-readme-activity-graph"><img alt="Ayush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=a11yus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ships97/max-earth-9327" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ships97&repo=max-earth-9327&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ships97/ZEE5" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ships97&repo=ZEE5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/ships97/Anthropologie-Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ships97&repo=Anthropologie-Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ships97/TATA-CLiQ-Clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ships97&repo=TATA-CLiQ-Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
